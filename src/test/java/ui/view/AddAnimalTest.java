@@ -59,3 +59,4 @@ public class AddAnimalTest {
 		assertTrue(addPage.hasStickyFood("3"));
 	}
 }
+
